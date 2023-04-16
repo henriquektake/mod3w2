@@ -2,7 +2,7 @@ let array = [3, 10, 5, 8, 33, 9, 0, 1, 2, 4]
 var resultado
 let num_real = [1.11, 3.89, 0.412, 6.034, 7.65]
 let opcao = prompt('Insira a opção desejada (1, 2, 3 ou 4):')
-
+/*
 // Realizando a operação escolhida
 switch (opcao) {
   case "1":
@@ -26,7 +26,7 @@ switch (opcao) {
 if (resultado !== undefined) {
   console.log(`O resultado de ${num1} ${operacao} ${num2} é ${resultado}`);
 }
-*/
+
 
 Exec 1:
 
@@ -94,3 +94,4 @@ numeros.forEach(num => {
 numeros.forEach(num => {
   console.log(`O número ${num} arredondado para cima é ${Math.ceil(num)}`)
 })
+*/
