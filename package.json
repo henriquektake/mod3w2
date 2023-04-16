@@ -1,0 +1,17 @@
+{
+  "name": "ativ-1",
+  "version": "1.0.0",
+  "description": "atividade 1 js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./src/main.js"
+  },
+  "author": "Henrique",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^9.6.4"
+  }
+}
